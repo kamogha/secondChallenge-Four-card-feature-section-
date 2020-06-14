@@ -1,0 +1,95 @@
+body {
+  text-align: center;
+  min-width: 1440px;
+  font-family: "Poppins";
+}
+
+h2 {
+  text-align: center;
+}
+
+.Reliable-line {
+  color: hsl(234, 12%, 34%);
+  font-weight: 200;
+  margin-bottom: 0;
+  font-size: 35px;
+}
+
+.Powered-line {
+  margin-top: 0;
+  font-weight: 600;
+  font-size: 34px;
+  margin-bottom: 20px;
+  color: hsl(234, 12%, 34%);
+}
+
+.our-line {
+  font-weight: 200;
+  color: hsl(229, 6%, 66%);
+  width: 32%;
+  margin: 0 auto;
+  font-size: 15px;
+}
+
+/* -------------------------------middle-box------------------------ */
+.down-box {
+  position: relative;
+  padding: 0% 10% 4%;
+  text-align: left;
+}
+
+.box {
+  background-color: #fff;
+  box-shadow: 0 15px 30px 2px #D3D3D3;
+  padding: 30px;
+  display: inline-block;
+  width: 280px;
+  height: 190px;
+  border-radius: 7px;
+}
+
+.first-box {
+  position: relative;
+  top: 140px;
+  left: 82px;
+  border-top: solid hsl(180, 62%, 55%) 5px;
+}
+
+.second-box {
+  position: relative;
+  left: 114px;
+  top: 40px;
+  border-top: solid hsl(0, 78%, 62%) 5px;
+}
+
+.third-box {
+  position: relative;
+  right: 230px;
+  top: 280px;
+  border-top: solid hsl(34, 97%, 64%) 5px;
+}
+
+.fourth-box {
+  position: relative;
+  top: -90px;
+  left: 835px;
+  border-top: solid hsl(212, 86%, 64%) 5px;
+}
+
+h3 {
+  color: hsl(234, 12%, 34%);
+  margin-top: 0;
+}
+
+.box-para {
+  color: hsl(229, 6%, 66%);
+  font-size: small;
+  font-weight: 200;
+  margin:0;
+}
+
+.img {
+  float: right;
+  position: relative;
+
+}
